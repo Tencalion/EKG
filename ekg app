@@ -1,0 +1,7 @@
+cd C:/Users/Valentin/EKG APP
+git init
+git add .
+git commit -m "EKG APP initial commit"
+git branch -M main
+git remote add origin https://github.com/Tencalion/EKG APP.git
+git push -u origin main
