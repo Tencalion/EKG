@@ -1,0 +1,7 @@
+cd C:\Users\Valentin\OneDrive\Dokumenty
+git init
+git add .
+git commit -m "EKG Trainer initial commit"
+git branch -M main
+git remote add origin https://github.com/Tencalion/ekg-trainer.git
+git push -u origin main
